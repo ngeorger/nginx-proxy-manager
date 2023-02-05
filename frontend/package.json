@@ -12,7 +12,7 @@
     "backbone.marionette": "^4.1.2",
     "copy-webpack-plugin": "^5.1.1",
     "css-loader": "^5.2.7",
-    "ejs-lint": "^1.0.1",
+    "ejs-lint": "^2.0.0",
     "ejs-loader": "^0.5.0",
     "ejs-webpack-loader": "^2.2.2",
     "file-loader": "^6.0.0",
