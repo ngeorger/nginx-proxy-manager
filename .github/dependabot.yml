@@ -7,7 +7,7 @@ updates:
   - package-ecosystem: "npm"
     directory: "/"
     schedule:
-      interval: "daily"
+      interval: "manual"
     ignore:
       - dependency-name: "lodash"
         # For Lodash, ignore all updates
